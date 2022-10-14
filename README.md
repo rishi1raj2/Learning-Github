@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/475eb095746151.5e9ecde695f7a.gif)
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/475eb095746151.5e9ecde695f7a.gif)
 <h1 align="center">Hi 👋, I'm RISHI RAJ CHAUHAN</h1>
 <h3 align="center">I am Hard working software developer and also into front end developement.</h3>
 <img align="right" alt="Coding" width="400" src= "https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
